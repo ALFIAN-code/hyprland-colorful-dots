@@ -6,6 +6,6 @@
 <hr>
 
 # how to install 
-### 1. install needed dependency( u can see in config, im to lazy to write it down)
+### 1. install needed dependency  ( u can see in config, im to lazy to write it down)
 ### 2. clone this repo
 ### 3. copy all files to ~/.config folder
