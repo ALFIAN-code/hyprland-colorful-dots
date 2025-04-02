@@ -15,8 +15,8 @@ pause=0
 
 
 while true; do
-    # BATTERY_LEVEL=$(cat "$BATTERY_DIR/capacity")
-    BATTERY_LEVEL=20
+    BATTERY_LEVEL=$(cat "$BATTERY_DIR/capacity")
+    #BATTERY_LEVEL=20
     
     if [ $CHARGING_STATUS = "Discharging" ]; then
         if [ $BATTERY_LEVEL -le $SUSPEND_THRESHOLD ]; then
