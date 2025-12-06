@@ -3,8 +3,9 @@
 Colorful, modular Hyprland dotfiles. Includes Hyprland, Waybar, Dunst, Rofi, SwayNC, Kitty, and useful Wayland scripts (volume, brightness, clipboard, screenshots, etc.).
 
 Preview:
-https://github.com/user-attachments/assets/a868e017-439d-4169-9af9-dec039d1288c
-https://github.com/user-attachments/assets/b77d6712-f51e-42bd-b7b1-e20d851a1ea4
+![Preview 1](https://github.com/user-attachments/assets/a868e017-439d-4169-9af9-dec039d1288c)
+![Preview 2](https://github.com/user-attachments/assets/b77d6712-f51e-42bd-b7b1-e20d851a1ea4)
+
 
 Note: This configuration is usable, but not 100% “finished.” Tune it to your setup.
 
